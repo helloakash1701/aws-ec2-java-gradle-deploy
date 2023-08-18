@@ -2,7 +2,8 @@
 ##### If you are using Intellijidea then go to 
 
     -> File -> Project Structure -> Choose SDK lower than the latest version
-    ![image](https://github.com/helloakash1701/aws-ec2-java-gradle-deploy/assets/80618499/d9c9c0a0-7d74-4577-83c9-de1f2230e31a)
+
+![image](https://github.com/helloakash1701/aws-ec2-java-gradle-deploy/assets/80618499/d9c9c0a0-7d74-4577-83c9-de1f2230e31a)
 
 
 ##### build the project
