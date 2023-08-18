@@ -10,6 +10,10 @@
 
     ./gradlew build
 
+##### start the project
+
+    java -jar name-of-jarfile
+
 ##### build Docker image called java-app. Execute from root
 
     docker build -t java-app .
