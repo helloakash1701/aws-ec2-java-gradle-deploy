@@ -1,3 +1,5 @@
+##### download a jdk lower than the latest version 16
+
 ##### build the project
 
     ./gradlew build
